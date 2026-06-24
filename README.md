@@ -86,9 +86,9 @@ This is the required input file. It should sit in the same directory as your scr
 
 ```csv
 SiteUrl
-[https://ccaf2017.sharepoint.com/sites/IT](https://ccaf2017.sharepoint.com/sites/IT)
-[https://ccaf2017.sharepoint.com/sites/CloudConsulting](https://ccaf2017.sharepoint.com/sites/CloudConsulting)
-[https://ccaf2017.sharepoint.com/sites/Accounting](https://ccaf2017.sharepoint.com/sites/Accounting)
+[https://contoso.sharepoint.com/sites/Site1](https://contoso.sharepoint.com/sites/Site1)
+[https://contoso.sharepoint.com/sites/Site2](https://contoso.sharepoint.com/sites/Site2)
+[https://contoso.sharepoint.com/sites/Site3](https://contoso.sharepoint.com/sites/Site3)
 ```
 
 ### `.gitignore`
