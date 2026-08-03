@@ -1,0 +1,4 @@
+SiteUrl,DestinationSiteUrl,DestinationLibrary,IncludeLibraries,ExcludeLibraries
+https://contoso.sharepoint.com/sites/Marketing,,,Documents;Brand Assets,Forms
+https://contoso.sharepoint.com/sites/Finance,https://contoso.sharepoint.com/sites/FinanceArchive,Archive,,
+https://contoso.sharepoint.com/sites/Engineering,,,,Old*
